@@ -108,7 +108,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1723825676143768}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.191, y: 1, z: -5.581}
+  m_LocalPosition: {x: -0.73463696, y: -0.4959998, z: 0.01679945}
   m_LocalScale: {x: 0.42899212, y: 0.90784496, z: 0.32599}
   m_Children: []
   m_Father: {fileID: 4769281897560898}
@@ -121,7 +121,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1335202348275750}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.909637, y: 3.362285, z: -5.592799}
+  m_LocalPosition: {x: -0.015999973, y: 1.8662851, z: 0.0050001144}
   m_LocalScale: {x: 1, y: 2.2505, z: 1}
   m_Children: []
   m_Father: {fileID: 4769281897560898}
@@ -134,7 +134,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1653392335030968}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.90563697, y: 2.136, z: -5.587799}
+  m_LocalPosition: {x: -0.02, y: 0.64, z: 0.01}
   m_LocalScale: {x: 1, y: 2.4612, z: 1}
   m_Children: []
   m_Father: {fileID: 4769281897560898}
@@ -147,7 +147,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1495902633768102}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.62, y: 1, z: -5.581}
+  m_LocalPosition: {x: 0.69436306, y: -0.4959998, z: 0.01679945}
   m_LocalScale: {x: 0.42898998, y: 0.90784997, z: 0.32599}
   m_Children: []
   m_Father: {fileID: 4769281897560898}
@@ -160,7 +160,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1617573385920272}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.93, y: 2.12, z: 5.577}
+  m_LocalPosition: {x: -0.93, y: 2.41, z: 5.577}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4407723655354768}
@@ -395,7 +395,7 @@ AudioSource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1617573385920272}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 37cf1d0dbeacb6942b4c385b30a3db93, type: 3}
@@ -408,7 +408,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 1.1483512
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
