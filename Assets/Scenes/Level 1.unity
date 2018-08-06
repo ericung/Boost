@@ -44,7 +44,7 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  m_GIWorkflowMode: 0
+  m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -89,7 +89,8 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000002, guid: e5dd56510bde1634f8336bbabde528c1,
+    type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
@@ -239,6 +240,10 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7126eed9a35d3ae41bbff02079593034, type: 2}
+    - target: {fileID: 1078790868771088, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
   m_IsPrefabAsset: 0
@@ -674,6 +679,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 14.776001
       objectReference: {fileID: 0}
+    - target: {fileID: 1078790868771088, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
   m_IsPrefabAsset: 0
@@ -796,6 +805,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -4.044
       objectReference: {fileID: 0}
+    - target: {fileID: 1078790868771088, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
   m_IsPrefabAsset: 0
@@ -876,6 +889,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 22.372002
       objectReference: {fileID: 0}
+    - target: {fileID: 1078790868771088, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
   m_IsPrefabAsset: 0
@@ -926,23 +943,6 @@ Prefab:
     - target: {fileID: 1078790868771088, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
       propertyPath: m_Name
       value: Landing Pad
-      objectReference: {fileID: 0}
-    - target: {fileID: 4571542079269604, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 8.3404
-      objectReference: {fileID: 0}
-    - target: {fileID: 4571542079269604, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 6.5686
-      objectReference: {fileID: 0}
-    - target: {fileID: 23004921086480932, guid: 0e44e7112ca04f0499443f3538603222,
-        type: 2}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 61eb202190344df479b4a5cb3765c40c, type: 2}
-    - target: {fileID: 1078790868771088, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
-      propertyPath: m_TagString
-      value: Friendly
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
@@ -1214,6 +1214,10 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7126eed9a35d3ae41bbff02079593034, type: 2}
+    - target: {fileID: 1078790868771088, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e44e7112ca04f0499443f3538603222, type: 2}
   m_IsPrefabAsset: 0
